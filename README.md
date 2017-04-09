@@ -28,9 +28,3 @@
 - 地址的修改
 - 前者的操作的模态框提示
 - 更多地址动态效果的完善
-
-
-# demo  
-cart.html https://lvzhenbang.github.io/shopping/cart.html
-
-address.html https://lvzhenbang.github.io/shopping/address.html
